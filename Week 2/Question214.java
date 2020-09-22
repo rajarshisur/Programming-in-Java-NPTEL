@@ -1,3 +1,4 @@
+// To call default constructor first and then any other constructor in the class.
 // This is the main class Question
 public class Question214{
 	public static void main(String[] args){
