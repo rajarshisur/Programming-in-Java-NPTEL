@@ -12,3 +12,15 @@ Java Week 1:Q3 Consider First n even numbers starting from zero(0) and calculate
 Java Week 1:Q4 To check whether the number is an Armstrong number or not.
 
 Java Week 1:Q5 To find the highest mark and average mark secured by Hari in "s" number of subjects.
+
+WEEK 2:
+
+Java Week 2:Q1 To call the method  print() of class Student first and then call print() method of class School.
+
+Java Week 2:Q2 
+
+Java Week 2:Q3 To call print() method of class Question by creating a method named ‘studentMethod()’.
+
+Java Week 2:Q4 To call default constructor first and then any other constructor in the class.
+
+Java Week 2:Q5 To debug / complete the program which is intended to print 'NPTEL JAVA'.
