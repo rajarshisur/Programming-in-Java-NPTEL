@@ -17,7 +17,13 @@ WEEK 2:
 
 Java Week 2:Q1 To call the method  print() of class Student first and then call print() method of class School.
 
-Java Week 2:Q2 
+
+Java Week 2:Q2 To call the method  print() of class given class Printer to print the following:
+
+              --------------------------------
+               Hi! I am class STUDENT
+               Hi! I class SCHOOL.
+              --------------------------------
 
 Java Week 2:Q3 To call print() method of class Question by creating a method named ‘studentMethod()’.
 
