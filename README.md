@@ -1,7 +1,9 @@
 # Programming-in-Java-NPTEL
 This repository contains the solutions of all the programming and quiz assignments of Programming in Java NPTEL course by Prof. Debasis Samantha, IIT Kharagpur
 
-WEEK 1:
+### WEEK 1:
+
+Programming in Java - Week 1 Quiz
 
 Java Week 1:Q1 To find the perimeter and area of a circle given a value of radius. You should use Math.PI constant in your program. If radius is zero or less than zero then print " please enter non zero positive number ".
 
@@ -13,7 +15,9 @@ Java Week 1:Q4 To check whether the number is an Armstrong number or not.
 
 Java Week 1:Q5 To find the highest mark and average mark secured by Hari in "s" number of subjects.
 
-WEEK 2:
+### WEEK 2:
+
+Programming in Java - Week 2  Quiz
 
 Java Week 2:Q1 To call the method  print() of class Student first and then call print() method of class School.
 
