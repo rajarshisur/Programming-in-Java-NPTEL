@@ -1,26 +1,6 @@
-### WEEK 2:
-
- - **Programming in Java - Week 2  Quiz**
-
- - **Java Week 2:Q1** To call the method  print() of class Student first and then call print() method of class School.
-
-
- - **Java Week 2:Q2** To call the method  print() of class given class Printer to print the following:
-
-              --------------------------------
-               Hi! I am class STUDENT
-               Hi! I class SCHOOL.
-              --------------------------------
-
- - **Java Week 2:Q3** To call print() method of class Question by creating a method named ‘studentMethod()’.
-
- - **Java Week 2:Q4** To call default constructor first and then any other constructor in the class.
-
- - **Java Week 2:Q5** To debug / complete the program which is intended to print 'NPTEL JAVA'.
- 
- 
  # [Programming In Java by NPTEL](https://github.com/rajarshisur/Programming-in-Java-NPTEL)
  This repository contains the solutions of all the programming and quiz assignments of Programming in Java NPTEL course by Prof. Debasis Samantha, IIT Kharagpur
+
 [![Java](https://img.shields.io/badge/Java-8-orange)](https://openjdk.java.net/projects/jdk8u/)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/pulls)
@@ -45,23 +25,30 @@
   [Java Week 1:Q4](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_4.java) To check whether the number is an Armstrong number or not.
 
   [Java Week 1:Q5](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_5.java) Complete the code segment to find the highest mark and average mark secured by Hari in "s" number of subjects.
+  [Java Week 1:Quiz](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Programming%20in%20Java%20-%20Week%201%20Quiz.pdf) Programming in Java - Week 1 Quiz Assignment
 
 
+## [WEEK 2](https://github.com/rajarshisur/Programming-in-Java-NPTEL/tree/master/Week%202)
 
-## [WEEK 2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-2)
+  [Java Week 2:Q1](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%202/Question21.java) To call the method  print() of class Student first and then call print() method of class School.
 
-  [Java Week 2:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question211.java) To call the method  print() in class Student following the concept of inner class.
+   [Java Week 2:Q2](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%202/Question214.java) To call the method  print() of class given class Printer to print the following:
 
-   [Java Week 2:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question212.java) To call the method  print() of class Student first and then call print() method of class School.
+              --------------------------------
+               Hi! I am class STUDENT
+               Hi! I class SCHOOL.
+              --------------------------------
 
-  [Java Week 2:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question213.java) To call print() method of class Question by creating a method named ‘studentMethod()’.
+  [Java Week 2:Q3](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%202/Question23.java) To call print() method of class Question by creating a method named ‘studentMethod()’
 
-  [Java Week 2:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question214.java) To call default constructor first and then any other constructor in the class Answer.
+  [Java Week 2:Q4](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%202/Question214.java) To call default constructor first and then any other constructor in the class.
 
-  [Java Week 2:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question215.java) To debug the program which is intended to print 'NPTEL JAVA'.
+  [Java Week 2:Q5](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%202/Question215.java) To debug the program which is intended to print 'NPTEL JAVA'
+  
+  [Java Week 2:Quiz](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%202/Programming%20in%20Java%20-%20Week%202%20%20Quiz.pdf) Programming in Java - Week 2 Quiz Assignment
 
 
-## [WEEK 3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-3)
+## [WEEK 3](https://github.com/rajarshisur/Programming-in-Java-NPTEL/tree/master/Week%203)
 
   [Java Week 3:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-3/Fibonacci.java) To the generation of Fibonacci numbers.
 
