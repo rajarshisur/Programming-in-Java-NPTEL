@@ -25,6 +25,7 @@
   [Java Week 1:Q4](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_4.java) To check whether the number is an Armstrong number or not.
 
   [Java Week 1:Q5](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_5.java) Complete the code segment to find the highest mark and average mark secured by Hari in "s" number of subjects.
+  
   [Java Week 1:Quiz](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Programming%20in%20Java%20-%20Week%201%20Quiz.pdf) Programming in Java - Week 1 Quiz Assignment
 
 
