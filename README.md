@@ -1,20 +1,3 @@
-# Programming in Java by NPTEL
-This repository contains the solutions of all the programming and quiz assignments of Programming in Java NPTEL course by Prof. Debasis Samantha, IIT Kharagpur
-
-### WEEK 1:
-
- - **Programming in Java - Week 1 Quiz**
-
- - **Java Week 1:Q1** To find the perimeter and area of a circle given a value of radius. You should use Math.PI constant in your program. If radius is zero or less than zero then print " please enter non zero positive number ".
-
- - **Java Week 1:Q2** To find the largest among three numbers x, y, and z. You should use if-then-else construct in Java.
-
- - **Java Week 1:Q3** Consider First n even numbers starting from zero(0) and calculate sum of all the numbers divisible by 3 from 0 to n. Print the sum.
-
- - **Java Week 1:Q4** To check whether the number is an Armstrong number or not.
-
- - **Java Week 1:Q5** To find the highest mark and average mark secured by Hari in "s" number of subjects.
-
 ### WEEK 2:
 
  - **Programming in Java - Week 2  Quiz**
@@ -36,7 +19,8 @@ This repository contains the solutions of all the programming and quiz assignmen
  - **Java Week 2:Q5** To debug / complete the program which is intended to print 'NPTEL JAVA'.
  
  
- # [Programming In Java NPTEL](https://github.com/rajarshisur/Programming-in-Java-NPTEL)
+ # [Programming In Java by NPTEL](https://github.com/rajarshisur/Programming-in-Java-NPTEL)
+ This repository contains the solutions of all the programming and quiz assignments of Programming in Java NPTEL course by Prof. Debasis Samantha, IIT Kharagpur
 [![Java](https://img.shields.io/badge/Java-8-orange)](https://openjdk.java.net/projects/jdk8u/)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/pulls)
@@ -50,17 +34,18 @@ This repository contains the solutions of all the programming and quiz assignmen
 [![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/bkkothari2255.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bkkothari2255?tab=followers)
 
-## [WEEK 1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
+## [WEEK 1](https://github.com/rajarshisur/Programming-in-Java-NPTEL/tree/master/Week%201)
 
-  [Java Week 1:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_1.java) To find the perimeter and area of a circle given a value of radius.
+  [Java Week 1:Q1](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_1.java) To find the perimeter and area of a circle given a value of radius. You should use Math.PI constant in your program. If radius is zero or less than zero then print.
 
-  [Java Week 1:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_2.java) To find the largest among three numbers x, y, and z.
+  [Java Week 1:Q2](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_2.java) To find the largest among three numbers x, y, and z.
 
-  [Java Week 1:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_3.java) Consider First n even numbers starting from zero(0) and calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
+  [Java Week 1:Q3](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_3.java) Consider first n even numbers starting from zero(0).Complete the code segment to calculate sum of  all these numbers divisible by 3. Print the sum.
 
-  [Java Week 1:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_4.java) To check whether the number is an Armstrong number or not.
+  [Java Week 1:Q4](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_4.java) To check whether the number is an Armstrong number or not.
 
-  [Java Week 1:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_5.java) To help Ram , find the highest mark and average mark secured by him in "s" number of subjects.
+  [Java Week 1:Q5](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%201/Exercise1_5.java) Complete the code segment to find the highest mark and average mark secured by Hari in "s" number of subjects.
+
 
 
 ## [WEEK 2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-2)
