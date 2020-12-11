@@ -41,8 +41,8 @@ This repository contains the solutions of all the programming and quiz assignmen
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/pulls)
 [![HitCount](http://hits.dwyl.com/bkkothari2255/Programming_In_Java_NPTEL.svg)](http://hits.dwyl.com/bkkothari2255/Programming_In_Java_NPTEL)
-[![GitHub contributors](https://img.shields.io/github/contributors/bkkothari2255/Programming_In_Java_NPTEL.svg)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/bkkothari2255/Programming_In_Java_NPTEL.svg)](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/bkkothari2255/Programming_In_Java_NPTEL.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/rajarshisur/Programming-in-Java-NPTEL)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/issues)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/network/)
