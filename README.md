@@ -36,10 +36,10 @@ This repository contains the solutions of all the programming and quiz assignmen
  - **Java Week 2:Q5** To debug / complete the program which is intended to print 'NPTEL JAVA'.
  
  
- # [Programming_In_Java_NPTEL](https://github.com/bkkothari2255/Programming_In_Java_NPTEL)
+ # [Programming In Java NPTEL](https://github.com/rajarshisur/Programming-in-Java-NPTEL)
 [![Java](https://img.shields.io/badge/Java-8-orange)](https://openjdk.java.net/projects/jdk8u/)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/pulls)
 [![HitCount](http://hits.dwyl.com/bkkothari2255/Programming_In_Java_NPTEL.svg)](http://hits.dwyl.com/bkkothari2255/Programming_In_Java_NPTEL)
 [![GitHub contributors](https://img.shields.io/github/contributors/bkkothari2255/Programming_In_Java_NPTEL.svg)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/bkkothari2255/Programming_In_Java_NPTEL.svg)](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/issues)
