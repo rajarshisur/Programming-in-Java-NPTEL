@@ -8,6 +8,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/rajarshisur/Programming-in-Java-NPTEL.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/rajarshisur/Programming-in-Java-NPTEL)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/issues)
 [![GitHub license](https://img.shields.io/github/license/rajarshisur/Programming-in-Java-NPTEL)](https://img.shields.io/github/license/rajarshisur/Programming-in-Java-NPTEL)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/network/)
