@@ -65,13 +65,13 @@
 
 
 
-## [WEEK 4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-4)
+## [WEEK 4](https://github.com/rajarshisur/Programming-in-Java-NPTEL/tree/master/Week%204)
 
-  [Java Week 4:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question41.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
+  [Java Week 4:Q1](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%204/Question-1.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
   
-  [Java Week 4:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question42.java) To print the current year. 
+  [Java Week 4:Q2](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%204/Question-2.java) To print the current year. 
   
-  [Java Week 4:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question43.java) The program in this assignment is attempted to print the following output: 
+  [Java Week 4:Q3](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%204/Question-3.java) The program in this assignment is attempted to print the following output: 
  
 ```text
 -----------------OUTPUT------------------- 
@@ -81,9 +81,9 @@
  This is extra-large
 ------------------------------------------
  ``` 
-  [Java Week 4:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question44.java)  To call the default method in the interface First and Second.
+  [Java Week 4:Q4](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%204/Question-4.java)  To call the default method in the interface First and Second.
 
-  [Java Week 4:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question45.java)  To print the following output.
+  [Java Week 4:Q5](https://github.com/rajarshisur/Programming-in-Java-NPTEL/blob/master/Week%204/Question-5.java)  To print the following output.
 
 ```text
 -----------------OUTPUT--------------
