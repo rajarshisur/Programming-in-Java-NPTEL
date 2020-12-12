@@ -11,10 +11,10 @@
 [![GitHub license](https://img.shields.io/github/license/rajarshisur/Programming-in-Java-NPTEL)](https://img.shields.io/github/license/rajarshisur/Programming-in-Java-NPTEL)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/network/)
-[![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
-[![GitHub followers](https://img.shields.io/github/followers/bkkothari2255.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bkkothari2255?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/rajarshisur/Programming-in-Java-NPTEL.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/rajarshisur/Programming-in-Java-NPTEL/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/rajarshisur/Programming-in-Java-NPTEL.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rajarshisur/Programming-in-Java-NPTEL/network/)
+[![GitHub stars](https://img.shields.io/github/stars/rajarshisur/Programming-in-Java-NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/rajarshisur/Programming-in-Java-NPTEL/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/rajarshisur.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rajarshisur?tab=followers)
 
 ## [WEEK 1](https://github.com/rajarshisur/Programming-in-Java-NPTEL/tree/master/Week%201)
 
