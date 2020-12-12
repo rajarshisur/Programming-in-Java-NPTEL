@@ -4,7 +4,7 @@
 [![Java](https://img.shields.io/badge/Java-8-orange)](https://openjdk.java.net/projects/jdk8u/)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/pulls)
-[![HitCount](http://hits.dwyl.com/bkkothari2255/Programming_In_Java_NPTEL.svg)](http://hits.dwyl.com/bkkothari2255/Programming_In_Java_NPTEL)
+[![HitCount](http://hits.dwyl.com/rajarshisur/Programming-in-Java-NPTEL.svg)](http://hits.dwyl.com/rajarshisur/Programming-in-Java-NPTEL)
 [![GitHub contributors](https://img.shields.io/github/contributors/rajarshisur/Programming-in-Java-NPTEL.svg)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/rajarshisur/Programming-in-Java-NPTEL)](https://github.com/rajarshisur/Programming-in-Java-NPTEL/issues)
 [![GitHub license](https://img.shields.io/github/license/rajarshisur/Programming-in-Java-NPTEL)](https://img.shields.io/github/license/rajarshisur/Programming-in-Java-NPTEL)
